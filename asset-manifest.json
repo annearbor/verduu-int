@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/myapp/static/css/main.9c1ea4e4.chunk.css",
+    "main.js": "/myapp/static/js/main.40908908.chunk.js",
+    "main.js.map": "/myapp/static/js/main.40908908.chunk.js.map",
+    "runtime~main.js": "/myapp/static/js/runtime~main.e4f53ea3.js",
+    "runtime~main.js.map": "/myapp/static/js/runtime~main.e4f53ea3.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/myapp/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.7419dff6.chunk.js": "/myapp/static/js/2.7419dff6.chunk.js",
+    "static/js/2.7419dff6.chunk.js.map": "/myapp/static/js/2.7419dff6.chunk.js.map",
+    "index.html": "/myapp/index.html",
+    "precache-manifest.3060c8655354839cd04ba8053d25786f.js": "/myapp/precache-manifest.3060c8655354839cd04ba8053d25786f.js",
+    "service-worker.js": "/myapp/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/myapp/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.9c1ea4e4.chunk.css.map": "/myapp/static/css/main.9c1ea4e4.chunk.css.map",
+    "static/media/custom.scss": "/myapp/static/media/hero-verduu.221d2fcf.jpg",
+    "static/media/verduu_logo.png": "/myapp/static/media/verduu_logo.bd8ee465.png"
+  }
+}
